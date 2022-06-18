@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1583147418 source:c:\users\lhsac\desktop\InterpDescRecursLista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lexico.h"
+	"sintatico.h"
+	"tabsimbolos.h"
+
+1583105972 source:c:\users\lhsac\desktop\InterpDescRecursLista\interpretador.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"interpretador.h"
+
+1583103482 c:\users\lhsac\desktop\InterpDescRecursLista\interpretador.h
+
+1583108617 source:c:\users\lhsac\desktop\InterpDescRecursLista\lexico.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lexico.h"
+
+1583108572 c:\users\lhsac\desktop\InterpDescRecursLista\lexico.h
+
+1583147607 source:c:\users\lhsac\desktop\InterpDescRecursLista\tabsimbolos.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabsimbolos.h"
+
+1583145754 c:\users\lhsac\desktop\InterpDescRecursLista\tabsimbolos.h
+	<stdio.h>
+
+1583148333 source:c:\users\lhsac\desktop\InterpDescRecursLista\sintatico.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lexico.h"
+	"tabsimbolos.h"
+
+1583148333 c:\users\lhsac\desktop\InterpDescRecursLista\sintatico.h
+
+1583108617 source:c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\interpdescrecurslista\lexico.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lexico.h"
+
+1583108572 c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\interpdescrecurslista\lexico.h
+
+1583288874 source:c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\interpdescrecurslista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lexico.h"
+	"sintatico.h"
+	"tabsimbolos.h"
+
+1583148333 c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\interpdescrecurslista\sintatico.h
+
+1583282825 c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\interpdescrecurslista\tabsimbolos.h
+	<stdio.h>
+
+1583677271 source:c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\interpdescrecurslista\sintatico.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lexico.h"
+	"tabsimbolos.h"
+
+1583428185 source:c:\users\lhsac\onedrive - ifsp.edu.br\sacchi\academico\ifsp\disciplinas\esdc3\projetos-c\interpdescrecurslista\tabsimbolos.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabsimbolos.h"
+
+1594648449 source:c:\users\lhsac\desktop\avaliadorexppolonesareversa\lexico.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lexico.h"
+
+1594648434 c:\users\lhsac\desktop\avaliadorexppolonesareversa\lexico.h
+
+1594758862 source:c:\users\lhsac\desktop\avaliadorexppolonesareversa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"lexico.h"
+	"sintatico.h"
+	"tabsimbolos.h"
+
+1594652849 c:\users\lhsac\desktop\avaliadorexppolonesareversa\sintatico.h
+
+1594682612 c:\users\lhsac\desktop\avaliadorexppolonesareversa\tabsimbolos.h
+	<stdio.h>
+
+1594756613 source:c:\users\lhsac\desktop\avaliadorexppolonesareversa\sintatico.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"lexico.h"
+	"sintatico.h"
+	"tabsimbolos.h"
+	"filaExp.h"
+	"pilhaExp.h"
+
+1594682612 source:c:\users\lhsac\desktop\avaliadorexppolonesareversa\tabsimbolos.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tabsimbolos.h"
+
+1594687941 source:c:\users\lhsac\desktop\avaliadorexppolonesareversa\filaexp.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"filaExp.h"
+	"tabsimbolos.h"
+
+1594687930 c:\users\lhsac\desktop\avaliadorexppolonesareversa\filaexp.h
+	<stdbool.h>
+
+1594676723 source:c:\users\lhsac\desktop\avaliadorexppolonesareversa\pilhaexp.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"pilhaExp.h"
+	"tabsimbolos.h"
+
+1594676742 c:\users\lhsac\desktop\avaliadorexppolonesareversa\pilhaexp.h
+	"filaExp.h"
+
