@@ -132,10 +132,10 @@ void statement(void)
             sprintf(operador->id, "%s %s", operando1->id, elPilha->id);
             switch(ch){
                 case '#':
-                    operador->value = operando1->value--;
+                    operador->value = -operando1->value;
                     break;
                 case '$':
-                    operador->value = operando1->value++;
+                    operador->value = operando1->value;
                     break;
             }
             pushPilhaExp(pilhaCalculo, operador);
